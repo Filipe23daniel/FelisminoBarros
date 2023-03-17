@@ -1,4 +1,22 @@
-## Oiii eu sou o Felismino Barros!
+### Hi there, I'm Felismino Barros
+
+#### About
+I'm a web Developer. And, I'm studyind web development at [Rocketseat](https://www.rocketseat.com.br/)
+
+#### Current stack
+- Main languange: `Javascript`
+-    Backend: `Nodejs`
+-    Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
+-    Layout Design: `Figma`
+-    Version code control: `Git & Github`
+-    Tools: `VsCode`, `Markdown`
+-    I'm mostly active within the `Rocketseat Community`
+
+#### Contacts
+- Email: Felisminodaniel2018@gmail.com
+- Linkedin: https://www.linkedin.com/in/felismino-barros-9931a0211/
+
+
 <div align="center">
   <a href="https://github.com/Filipe23daniel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipe23daniel&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
